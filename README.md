@@ -31,8 +31,8 @@ Student Management System is created using java and Apache NetBeans IDE. The mai
 
 ## 1. Procedure (xampp): creating database and starting mySQL server.
 1. open the xampp control panel.
-2. start the **Apache** module and wait for it to start.
-3. start the **MySQL** module and wait for it to start
+2. start the **__Apache__** module and wait for it to start.
+4. start the **__MySQL__** module and wait for it to start
 
 
 
