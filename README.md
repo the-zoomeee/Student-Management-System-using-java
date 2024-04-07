@@ -31,8 +31,17 @@ Student Management System is created using java and Apache NetBeans IDE. The mai
 
 ## 1. Procedure (xampp): creating database and starting mySQL server.
 1. open the xampp control panel.
-2. start the **_Apache_** module and wait for it to start.
-4. start the **_MySQL_** module and wait for it to start
+2. start the "**_Apache_**" module and wait for it to start.
+4. start the "**_MySQL_**" module and wait for it to start.
+5. now click on "_Admin_" button of "**_MySQL_**".
+6. now you will be redirected to the web browser page form this we will create our database.
+7. click on "New" on left hand side.
+8. now, Enter the name of database "**_student_**".
+   > Note:- Database name should be as it is "**Student**".
+   > Note:- table1 name should be as it is "**admin**".
+   > Note:- table2 name should be as it is "**student**".
+9. now, hit the "create" button.
+10. now follow the GUI instructions.
 
 
 
