@@ -30,4 +30,22 @@ Student Management System is created using java and Apache NetBeans IDE. The mai
 ## procedure (Apache NetBeans IDE):
 1. Create the new project and select "Java with Ant" in Category section.
 2. select "Java Application" in Projects section.
-   ![Screenshot (98)](https://github.com/the-zoomeee/Student-Management-System-using-java/assets/154297263/0c994ebb-fdf0-4aa8-8830-7f6d6c6f0093)
+3. now, hit the "Next" button.
+4. Give the project name inmy case it is "student_management_system_using_java".
+5. now, hit the "Finish" button.
+6. now navigate to the  "student_management_system_using_java > Source Packages" and right click on the "Source Packages > New > Java Package".
+7. set the name for the package "login"
+   Note :- Package Name Should be "login" only.
+8. now, click on "Finish" button.
+9. now open the project in file explorer by default it will be in the "Documents" folder in my case it is in (C:\Users\Bharat\Documents\NetBeansProjects\student_management_system_using_java\src).
+10. now delete the "login" folder and past the new login folder from "github > ...src > login".
+11. now reopen the IDE and add the Libraries to the project which was downloaded
+    Note :- If you did'nt find then you can take it from "github > Libraries.
+12. navigate to the "student_management_system_using_java > Source Packages > Libraries" folder
+13. right click on it and click on "Add JAR/Folder"
+14. Now navigate to the folder were "rs2xml and mysql-connecter" is stored.
+15. select both of them.
+16. now click on "Open" button.
+17. now navigate to the "login.java" file in Source Packages > login > login.java. and click on "Source"
+18. now right click on any were and click on "Run File"
+    Note :- Make sure your Xampp (Apace and mysql) server is running.
