@@ -24,7 +24,7 @@ Student Management System is created using java and Apache NetBeans IDE. The mai
 2. Install Xamp (https://www.apachefriends.org/download.html)
 3. Install jdbc drive for sql connections (https://dev.mysql.com/downloads/connector/j/)
    Note :- Select "Platform Independent"
-4. Install rs2xml driver (https://sourceforge.net/projects/finalangelsanddemons/files/rs2xml.jar/download)
+5. Install rs2xml driver (https://sourceforge.net/projects/finalangelsanddemons/files/rs2xml.jar/download)
 
 
 ## procedure (Apache NetBeans IDE):
