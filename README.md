@@ -23,7 +23,7 @@ Student Management System is created using java and Apache NetBeans IDE. The mai
 1. Install Apache netBeans IDE (https://netbeans.apache.org/front/main/download/index.html)
 2. Install Xamp (https://www.apachefriends.org/download.html)
 3. Install jdbc drive for sql connections (https://dev.mysql.com/downloads/connector/j/)
-4. * Note :- Select "Platform Independent"
+   * Note :- Select "Platform Independent"
 5. Install rs2xml driver (https://sourceforge.net/projects/finalangelsanddemons/files/rs2xml.jar/download)
 
 
@@ -35,12 +35,12 @@ Student Management System is created using java and Apache NetBeans IDE. The mai
 5. now, hit the "Finish" button.
 6. now navigate to the  "student_management_system_using_java > Source Packages" and right click on the "Source Packages > New > Java Package".
 7. set the name for the package "login"
-Note :- Package Name Should be "login" only.
+   * Note :- Package Name Should be "login" only.
 9. now, click on "Finish" button.
 10. now open the project in file explorer by default it will be in the "Documents" folder in my case it is in (C:\Users\Bharat\Documents\NetBeansProjects\student_management_system_using_java\src).
 11. now delete the "login" folder and past the new login folder from "github > ...src > login".
 12. now reopen the IDE and add the Libraries to the project which was downloaded
-    Note :- If you did'nt find then you can take it from "github > Libraries.
+    * Note :- If you did'nt find then you can take it from "github > Libraries.
 13. navigate to the "student_management_system_using_java > Source Packages > Libraries" folder
 14. right click on it and click on "Add JAR/Folder"
 15. Now navigate to the folder were "rs2xml and mysql-connecter" is stored.
@@ -48,4 +48,4 @@ Note :- Package Name Should be "login" only.
 17. now click on "Open" button.
 18. now navigate to the "login.java" file in Source Packages > login > login.java. and click on "Source"
 19. now right click on any were and click on "Run File"
-    Note :- Make sure your Xampp (Apace and mysql) server is running.
+    * Note :- Make sure your Xampp (Apace and mysql) server is running.
