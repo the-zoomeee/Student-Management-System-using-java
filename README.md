@@ -71,21 +71,30 @@ Student Management System is created using java and Apache NetBeans IDE. The mai
 1. Create the new project and select "Java with Ant" in Category section.
 2. select "Java Application" in Projects section.
 3. now, hit the "Next" button.
-4. Give the project name inmy case it is "student_management_system_using_java".
+![1](https://github.com/the-zoomeee/Student-Management-System-using-java/assets/154297263/f0e7b2f6-b7a3-4b89-8d76-b6667d035798)
+4. Give the project name in my case it is "student_management_system_using_java".
 5. now, hit the "Finish" button.
+![2](https://github.com/the-zoomeee/Student-Management-System-using-java/assets/154297263/61aa668a-c417-4322-a33c-fd0dbf2f2e77)
 6. now navigate to the  "student_management_system_using_java > Source Packages" and right click on the "Source Packages > New > Java Package".
+![3](https://github.com/the-zoomeee/Student-Management-System-using-java/assets/154297263/5481cfe2-99f1-43f5-9f6d-5cf20c5cc480)
 7. set the name for the package "login"
    * Note :- Package Name Should be "login" only.
-9. now, click on "Finish" button.
-10. now open the project in file explorer by default it will be in the "Documents" folder in my case it is in (C:\Users\Bharat\Documents\NetBeansProjects\student_management_system_using_java\src).
-11. now delete the "login" folder and past the new login folder from "github > ...src > login".
-12. now reopen the IDE and add the Libraries to the project which was downloaded
+8. now, click on "Finish" button.
+![4](https://github.com/the-zoomeee/Student-Management-System-using-java/assets/154297263/a633ec29-a02b-46b0-a8ee-79e403fdc4d7)
+9. now open the project in file explorer by default it will be in the "Documents" folder in my case it is in (C:\Users\Bharat\Documents\NetBeansProjects\student_management_system_using_java\src).
+10. now delete the "login" folder and past the new login folder from "github > ...src > login".
+![5](https://github.com/the-zoomeee/Student-Management-System-using-java/assets/154297263/79b10025-5bc6-42cb-935d-6fd298db9c3d)
+11. now reopen the IDE and add the Libraries to the project which was downloaded
     * Note :- If you did'nt find then you can take it from "github > Libraries.
-13. navigate to the "student_management_system_using_java > Source Packages > Libraries" folder
-14. right click on it and click on "Add JAR/Folder"
-15. Now navigate to the folder were "rs2xml and mysql-connecter" is stored.
-16. select both of them.
-17. now click on "Open" button.
-18. now navigate to the "login.java" file in Source Packages > login > login.java. and click on "Source"
-19. now right click on any were and click on "Run File"
+12. navigate to the "student_management_system_using_java > Source Packages > Libraries" folder
+13. right click on it and click on "Add JAR/Folder"
+![6](https://github.com/the-zoomeee/Student-Management-System-using-java/assets/154297263/63530394-fe95-48f0-a344-36c5fb565739)
+14. Now navigate to the folder were "rs2xml and mysql-connecter" is stored.
+15. select both of them.
+16. now click on "Open" button.
+![7](https://github.com/the-zoomeee/Student-Management-System-using-java/assets/154297263/0fe73d05-1ab1-4f4f-9857-11736a592ab2)
+17. now navigate to the "login.java" file in Source Packages > login > login.java. and click on "Source"
+![8](https://github.com/the-zoomeee/Student-Management-System-using-java/assets/154297263/2ff1ca3c-7f0a-47a9-8ba4-edeb3493a4b8)
+18. now right click on any were and click on "Run File"
     * Note :- Make sure your Xampp (Apace and mysql) server is running.
+![9](https://github.com/the-zoomeee/Student-Management-System-using-java/assets/154297263/4b640211-5b8a-406b-8324-61507a401b6a)
