@@ -41,8 +41,8 @@ Student Management System is created using java and Apache NetBeans IDE. The mai
 >  * Database name should be as it is "**Student**".
 >  * table1 name should be as it is "**admin**".
 >  * table2 name should be as it is "**student**".
-10. now, hit the "create" button.
-11. now follow the GUI instructions.
+9. now, hit the "create" button.
+10. now follow the GUI instructions.
 
 
 
