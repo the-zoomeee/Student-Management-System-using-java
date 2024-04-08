@@ -44,7 +44,25 @@ Student Management System is created using java and Apache NetBeans IDE. The mai
 >  * table1 name should be as it is "**admin**".
 >  * table2 name should be as it is "**student**".
 8. now, hit the "create" button.
+![x3](https://github.com/the-zoomeee/Student-Management-System-using-java/assets/154297263/e3aa595e-4da8-4a27-8a8c-8cfc0b27df83)
 9. now follow the GUI instructions.
+![x4](https://github.com/the-zoomeee/Student-Management-System-using-java/assets/154297263/7339ecfe-7534-400b-92bb-c91b5a2df851)
+
+![x5](https://github.com/the-zoomeee/Student-Management-System-using-java/assets/154297263/47ae1a48-f8e3-4d51-bc0d-a0656156cc7c)
+
+![x6](https://github.com/the-zoomeee/Student-Management-System-using-java/assets/154297263/f166fda5-16b6-410c-b3e1-88eb76fb8df4)
+
+![x7](https://github.com/the-zoomeee/Student-Management-System-using-java/assets/154297263/50a6c368-0f77-4be0-bbb6-b9836536ce23)
+
+![x8](https://github.com/the-zoomeee/Student-Management-System-using-java/assets/154297263/2f740de1-3bf2-4388-9fed-6289a823a064)
+
+![x9](https://github.com/the-zoomeee/Student-Management-System-using-java/assets/154297263/61b63d33-497d-42d7-9032-0bd0fd652a06)
+
+![x10](https://github.com/the-zoomeee/Student-Management-System-using-java/assets/154297263/92b6a22f-6232-4608-916e-37148582770a)
+
+![x11](https://github.com/the-zoomeee/Student-Management-System-using-java/assets/154297263/cdf80ec6-8249-470c-b3cc-cf2594a362b6)
+
+![x12](https://github.com/the-zoomeee/Student-Management-System-using-java/assets/154297263/19d441c2-e0e2-4627-b472-d9f618f47b3d)
 
 
 
