@@ -33,7 +33,9 @@ Student Management System is created using java and Apache NetBeans IDE. The mai
 1. open the xampp control panel.
 2. start the "**_Apache_**" module and wait for it to start.
 3. start the "**_MySQL_**" module and wait for it to start.
+![x1](https://github.com/the-zoomeee/Student-Management-System-using-java/assets/154297263/5059c644-d6fd-44ed-b92c-2e41f1f85d39)
 4. now click on "_Admin_" button of "**_MySQL_**".
+![x2](https://github.com/the-zoomeee/Student-Management-System-using-java/assets/154297263/cd12d6bb-79c1-40a1-b096-c3441e57b6c1)
 5. now you will be redirected to the web browser page form this we will create our database.
 6. click on "New" on left hand side.
 7. now, Enter the name of database "**_student_**".
