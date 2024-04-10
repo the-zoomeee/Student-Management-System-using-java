@@ -64,6 +64,9 @@ Student Management System is created using java and Apache NetBeans IDE. The mai
 
 ![x12](https://github.com/the-zoomeee/Student-Management-System-using-java/assets/154297263/19d441c2-e0e2-4627-b472-d9f618f47b3d)
 
+22. now add the admin data in the admin table
+23. id= "1", mail= "admin@gmail.com", password= "admin" name= ""admin
+
 
 
 
@@ -98,3 +101,8 @@ Student Management System is created using java and Apache NetBeans IDE. The mai
 18. now right click on any were and click on "Run File"
     * Note :- Make sure your Xampp (Apace and mysql) server is running.
 ![9](https://github.com/the-zoomeee/Student-Management-System-using-java/assets/154297263/4b640211-5b8a-406b-8324-61507a401b6a)
+
+19. E- mail: "admin@gmail.com"
+20. password: "admin"
+21.  click on **login** button 
+![10](https://github.com/the-zoomeee/Student-Management-System-using-java/assets/154297263/989c5361-50e2-4356-a1a7-809ce43aa22d)
